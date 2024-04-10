@@ -1,0 +1,86 @@
+<mxfile host="Electron" modified="2024-04-04T03:06:23.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="Qss2EH-ZpTJ2m3ut6rEe" version="22.1.18" type="device" pages="2">
+  <diagram id="UlBzlETUiNTbLO7OTkW8" name="Diagrama de clases">
+    <mxGraphModel dx="1114" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xKxBlXlDXREWC6I9kZaj-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Consola&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- op: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ crearColeccion(nombreColeccion): String&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="310" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="RF01" id="5hISqHQNSowjEhYU60bK">
+    <mxGraphModel dx="1114" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KD4srC0kXVOpmhAhG9xs-1" value="RF01: Soporte para operaciones CRUD  &#xa;Descripción: EquinoxDB debe permitir a los usuarios realizar operaciones de Crear, Leer, Actualizar y Eliminar datos de manera eficiente y confiable.  &#xa;Subrequerimientos:&#xa;&#xa;&#xa;1. La capacidad de agregar nuevos registros a la base de datos.&#xa;2. La habilidad para recuperar información específica de la base de datos.&#xa;3. La posibilidad de actualizar registros existentes en la base de datos.&#xa;4. La capacidad de eliminar registros de la base de datos." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="140" width="450" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="KD4srC0kXVOpmhAhG9xs-2" value="Consola" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="KD4srC0kXVOpmhAhG9xs-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KD4srC0kXVOpmhAhG9xs-2">
+          <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KD4srC0kXVOpmhAhG9xs-3" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="90" y="360" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="KD4srC0kXVOpmhAhG9xs-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KD4srC0kXVOpmhAhG9xs-3">
+          <mxGeometry x="5" y="70" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KD4srC0kXVOpmhAhG9xs-4" value="Usuario" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KD4srC0kXVOpmhAhG9xs-7" value="Crea una colección" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" target="KD4srC0kXVOpmhAhG9xs-6" parent="1" source="KD4srC0kXVOpmhAhG9xs-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="425" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KD4srC0kXVOpmhAhG9xs-8" value="Mensaje de &lt;br&gt;confirmación" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;exitPerimeter=0;" edge="1" source="KD4srC0kXVOpmhAhG9xs-6" parent="1" target="KD4srC0kXVOpmhAhG9xs-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="480" as="targetPoint" />
+            <mxPoint x="255" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KD4srC0kXVOpmhAhG9xs-9" value="Controlador" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="314" y="360" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="KD4srC0kXVOpmhAhG9xs-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KD4srC0kXVOpmhAhG9xs-9">
+          <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KD4srC0kXVOpmhAhG9xs-11" value="Gestor de archivos" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="KD4srC0kXVOpmhAhG9xs-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KD4srC0kXVOpmhAhG9xs-11">
+          <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KD4srC0kXVOpmhAhG9xs-13" value="Archivo JSON" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="590" y="360" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="KD4srC0kXVOpmhAhG9xs-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KD4srC0kXVOpmhAhG9xs-13">
+          <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KD4srC0kXVOpmhAhG9xs-15" value="crearColeccion()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="KD4srC0kXVOpmhAhG9xs-6" target="KD4srC0kXVOpmhAhG9xs-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="440" as="sourcePoint" />
+            <mxPoint x="340" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KD4srC0kXVOpmhAhG9xs-16" value="crearArchivo()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="KD4srC0kXVOpmhAhG9xs-10" target="KD4srC0kXVOpmhAhG9xs-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="366" y="440" as="sourcePoint" />
+            <mxPoint x="500" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KD4srC0kXVOpmhAhG9xs-17" value="darle un nombre &lt;br&gt;al archivo" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="KD4srC0kXVOpmhAhG9xs-12" target="KD4srC0kXVOpmhAhG9xs-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="440" as="sourcePoint" />
+            <mxPoint x="636" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
