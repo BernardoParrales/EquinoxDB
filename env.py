@@ -1,0 +1,10 @@
+COD = {"Inicializar": "Se creo el directorio colecciones",
+       "Comprobar Coleccion": "Se comprobo el directorio colecciones, el cual ya existe.",
+       "Crear coleccion": "Se creo la coleccion con exito.",
+       "Coleccion Existe": "La colección ya existe.",
+       "Eliminar coleccion": "Se eliminó la coleccion con exito.",
+       "Coleccion no existe": "La coleccion no existe.",
+       "Coleccion encontrada": "La coleccion fue encontrada con exito",
+       "Archivo no existe": "El archivo de la coleccion no existe.",
+       "Datos JSON invalidados": "El archivo de la coleccion no contiene datos JSON válidos.",
+       }

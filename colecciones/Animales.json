@@ -1,0 +1,390 @@
+[
+    {
+        "cod": 8,
+        "texto": "Valor: 2907"
+    },
+    {
+        "cod": 10,
+        "texto": "Valor: 3512"
+    },
+    {
+        "cod": 12,
+        "texto": "Valor: 485"
+    },
+    {
+        "cod": 14,
+        "texto": "Valor: 7626"
+    },
+    {
+        "cod": 16,
+        "texto": "Valor: 8788"
+    },
+    {
+        "cod": 18,
+        "texto": "Valor: 5364"
+    },
+    {
+        "cod": 22,
+        "texto": "Valor: 8980"
+    },
+    {
+        "cod": 24,
+        "texto": "Valor: 2032"
+    },
+    {
+        "cod": 26,
+        "texto": "Valor: 6020"
+    },
+    {
+        "cod": 28,
+        "texto": "Valor: 1992"
+    },
+    {
+        "cod": 30,
+        "texto": "Valor: 2071"
+    },
+    {
+        "cod": 32,
+        "texto": "Valor: 7001"
+    },
+    {
+        "cod": 34,
+        "texto": "Valor: 4822"
+    },
+    {
+        "cod": 36,
+        "texto": "Valor: 3100"
+    },
+    {
+        "cod": 38,
+        "texto": "Valor: 7217"
+    },
+    {
+        "cod": 40,
+        "texto": "Valor: 3601"
+    },
+    {
+        "cod": 42,
+        "texto": "Valor: 5407"
+    },
+    {
+        "cod": 44,
+        "texto": "Valor: 6030"
+    },
+    {
+        "cod": 46,
+        "texto": "Valor: 20"
+    },
+    {
+        "cod": 48,
+        "texto": "Valor: 2352"
+    },
+    {
+        "cod": 50,
+        "texto": "Valor: 1108"
+    },
+    {
+        "cod": 52,
+        "texto": "Valor: 7674"
+    },
+    {
+        "cod": 54,
+        "texto": "Valor: 1348"
+    },
+    {
+        "cod": 56,
+        "texto": "Valor: 7291"
+    },
+    {
+        "cod": 58,
+        "texto": "Valor: 7925"
+    },
+    {
+        "cod": 60,
+        "texto": "Valor: 9614"
+    },
+    {
+        "cod": 62,
+        "texto": "Valor: 1859"
+    },
+    {
+        "cod": 64,
+        "texto": "Valor: 3030"
+    },
+    {
+        "cod": 66,
+        "texto": "Valor: 9952"
+    },
+    {
+        "cod": 68,
+        "texto": "Valor: 3883"
+    },
+    {
+        "cod": 70,
+        "texto": "Valor: 7722"
+    },
+    {
+        "cod": 72,
+        "texto": "Valor: 4253"
+    },
+    {
+        "cod": 74,
+        "texto": "Valor: 4664"
+    },
+    {
+        "cod": 76,
+        "texto": "Valor: 2801"
+    },
+    {
+        "cod": 78,
+        "texto": "Valor: 5305"
+    },
+    {
+        "cod": 80,
+        "texto": "Valor: 7061"
+    },
+    {
+        "cod": 82,
+        "texto": "Valor: 5670"
+    },
+    {
+        "cod": 84,
+        "texto": "Valor: 8158"
+    },
+    {
+        "cod": 86,
+        "texto": "Valor: 7697"
+    },
+    {
+        "cod": 88,
+        "texto": "Valor: 9155"
+    },
+    {
+        "cod": 90,
+        "texto": "Valor: 2387"
+    },
+    {
+        "cod": 92,
+        "texto": "Valor: 2215"
+    },
+    {
+        "cod": 94,
+        "texto": "Valor: 5830"
+    },
+    {
+        "cod": 96,
+        "texto": "Valor: 396"
+    },
+    {
+        "cod": 98,
+        "texto": "Valor: 5086"
+    },
+    {
+        "cod": 0,
+        "texto": "Valor: 5562"
+    },
+    {
+        "cod": 2,
+        "texto": "Valor: 5222"
+    },
+    {
+        "cod": 4,
+        "texto": "Valor: 738"
+    },
+    {
+        "cod": 6,
+        "texto": "Valor: 638"
+    },
+    {
+        "cod": 8,
+        "texto": "Valor: 9851"
+    },
+    {
+        "cod": 10,
+        "texto": "Valor: 2935"
+    },
+    {
+        "cod": 12,
+        "texto": "Valor: 1818"
+    },
+    {
+        "cod": 14,
+        "texto": "Valor: 4937"
+    },
+    {
+        "cod": 16,
+        "texto": "Valor: 702"
+    },
+    {
+        "cod": 18,
+        "texto": "Valor: 8536"
+    },
+    {
+        "cod": 20,
+        "texto": "Valor: 7723"
+    },
+    {
+        "cod": 22,
+        "texto": "Valor: 2443"
+    },
+    {
+        "cod": 24,
+        "texto": "Valor: 667"
+    },
+    {
+        "cod": 26,
+        "texto": "Valor: 5935"
+    },
+    {
+        "cod": 28,
+        "texto": "Valor: 2335"
+    },
+    {
+        "cod": 30,
+        "texto": "Valor: 9230"
+    },
+    {
+        "cod": 32,
+        "texto": "Valor: 5536"
+    },
+    {
+        "cod": 34,
+        "texto": "Valor: 3262"
+    },
+    {
+        "cod": 36,
+        "texto": "Valor: 2549"
+    },
+    {
+        "cod": 38,
+        "texto": "Valor: 4112"
+    },
+    {
+        "cod": 40,
+        "texto": "Valor: 7694"
+    },
+    {
+        "cod": 42,
+        "texto": "Valor: 5696"
+    },
+    {
+        "cod": 44,
+        "texto": "Valor: 5806"
+    },
+    {
+        "cod": 46,
+        "texto": "Valor: 3788"
+    },
+    {
+        "cod": 48,
+        "texto": "Valor: 8960"
+    },
+    {
+        "cod": 50,
+        "texto": "Valor: 8369"
+    },
+    {
+        "cod": 52,
+        "texto": "Valor: 5767"
+    },
+    {
+        "cod": 54,
+        "texto": "Valor: 1176"
+    },
+    {
+        "cod": 56,
+        "texto": "Valor: 2609"
+    },
+    {
+        "cod": 58,
+        "texto": "Valor: 7587"
+    },
+    {
+        "cod": 60,
+        "texto": "Valor: 9974"
+    },
+    {
+        "cod": 62,
+        "texto": "Valor: 3012"
+    },
+    {
+        "cod": 64,
+        "texto": "Valor: 3892"
+    },
+    {
+        "cod": 66,
+        "texto": "Valor: 4554"
+    },
+    {
+        "cod": 68,
+        "texto": "Valor: 542"
+    },
+    {
+        "cod": 70,
+        "texto": "Valor: 6834"
+    },
+    {
+        "cod": 72,
+        "texto": "Valor: 8941"
+    },
+    {
+        "cod": 74,
+        "texto": "Valor: 6090"
+    },
+    {
+        "cod": 76,
+        "texto": "Valor: 8198"
+    },
+    {
+        "cod": 78,
+        "texto": "Valor: 2156"
+    },
+    {
+        "cod": 80,
+        "texto": "Valor: 4178"
+    },
+    {
+        "cod": 82,
+        "texto": "Valor: 3645"
+    },
+    {
+        "cod": 84,
+        "texto": "Valor: 9178"
+    },
+    {
+        "cod": 86,
+        "texto": "Valor: 9701"
+    },
+    {
+        "cod": 88,
+        "texto": "Valor: 3650"
+    },
+    {
+        "cod": 90,
+        "texto": "Valor: 9710"
+    },
+    {
+        "cod": 92,
+        "texto": "Valor: 8405"
+    },
+    {
+        "cod": 94,
+        "texto": "Valor: 7153"
+    },
+    {
+        "cod": 96,
+        "texto": "Valor: 7699"
+    },
+    {
+        "cod": 98,
+        "texto": "Valor: 7316"
+    },
+    {
+        "cod": 0,
+        "texto": "Valor: 6969"
+    },
+    {
+        "cod": 0,
+        "texto": "Valor: 6969"
+    }
+]

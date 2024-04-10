@@ -1,0 +1,798 @@
+
+2024-04-04 23:14:01.137297:Se inicializo la base de datos
+2024-04-04 23:14:01.147305:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-04 23:14:01.165302:El archivo de la coleccion no contiene datos JSON válidos.
+2024-04-04 23:14:01.178305:La coleccion no existe.
+2024-04-04 23:14:01.188300:La coleccion no existe.
+2024-04-04 23:14:01.202302:La coleccion no existe.
+2024-04-04 23:14:01.216316:La coleccion no existe.
+2024-04-04 23:14:01.233300:La coleccion no existe.
+2024-04-04 23:14:01.247302:La coleccion no existe.
+2024-04-04 23:14:01.256304:La coleccion no existe.
+2024-04-04 23:14:01.268299:La coleccion no existe.
+2024-04-04 23:14:01.279312:La coleccion no existe.
+2024-04-04 23:14:01.287300:La coleccion no existe.
+2024-04-04 23:14:01.298299:La coleccion no existe.
+2024-04-04 23:14:01.305305:La coleccion no existe.
+2024-04-04 23:14:01.316302:La coleccion no existe.
+2024-04-04 23:14:01.323299:La coleccion no existe.
+2024-04-04 23:14:01.334305:La coleccion no existe.
+2024-04-04 23:14:01.342301:La coleccion no existe.
+2024-04-04 23:14:01.353298:La coleccion no existe.
+2024-04-04 23:14:01.365319:La coleccion no existe.
+2024-04-04 23:14:01.374303:La coleccion no existe.
+2024-04-04 23:14:01.385299:La coleccion no existe.
+2024-04-04 23:14:01.396304:La coleccion no existe.
+2024-04-04 23:14:01.406304:La coleccion no existe.
+2024-04-04 23:14:01.416302:La coleccion no existe.
+2024-04-04 23:14:01.426308:La coleccion no existe.
+2024-04-04 23:14:01.437300:La coleccion no existe.
+2024-04-04 23:14:01.448304:La coleccion no existe.
+2024-04-04 23:14:01.458303:La coleccion no existe.
+2024-04-04 23:14:01.469299:La coleccion no existe.
+2024-04-04 23:14:01.481302:La coleccion no existe.
+2024-04-04 23:14:01.490306:La coleccion no existe.
+2024-04-04 23:14:01.500299:La coleccion no existe.
+2024-04-04 23:14:01.511322:La coleccion no existe.
+2024-04-04 23:14:01.522302:La coleccion no existe.
+2024-04-04 23:14:01.536308:La coleccion no existe.
+2024-04-04 23:14:01.554297:La coleccion no existe.
+2024-04-04 23:14:01.565302:La coleccion no existe.
+2024-04-04 23:14:01.574311:La coleccion no existe.
+2024-04-04 23:14:01.586297:La coleccion no existe.
+2024-04-04 23:14:01.597299:La coleccion no existe.
+2024-04-04 23:14:01.605298:La coleccion no existe.
+2024-04-04 23:14:01.617297:La coleccion no existe.
+2024-04-04 23:14:01.628303:La coleccion no existe.
+2024-04-04 23:14:01.637302:La coleccion no existe.
+2024-04-04 23:14:01.649309:La coleccion no existe.
+2024-04-04 23:14:01.659303:La coleccion no existe.
+2024-04-04 23:14:01.670303:La coleccion no existe.
+2024-04-04 23:14:01.681315:La coleccion no existe.
+2024-04-04 23:14:01.691302:La coleccion no existe.
+2024-04-04 23:14:01.701301:La coleccion no existe.
+2024-04-04 23:14:01.714304:La coleccion no existe.
+2024-04-04 23:14:01.724299:La coleccion no existe.
+2024-04-04 23:14:01.736299:La coleccion no existe.
+2024-04-04 23:14:01.748303:La coleccion no existe.
+2024-04-04 23:14:01.757302:La coleccion no existe.
+2024-04-04 23:14:01.772299:La coleccion no existe.
+2024-04-04 23:14:01.798302:La coleccion no existe.
+2024-04-04 23:14:01.816300:La coleccion no existe.
+2024-04-04 23:14:01.830303:La coleccion no existe.
+2024-04-04 23:14:01.848312:La coleccion no existe.
+2024-04-04 23:14:01.865305:La coleccion no existe.
+2024-04-04 23:14:01.901305:La coleccion no existe.
+2024-04-04 23:14:01.931304:La coleccion no existe.
+2024-04-04 23:14:01.952304:La coleccion no existe.
+2024-04-04 23:14:01.974310:La coleccion no existe.
+2024-04-04 23:14:02.007309:La coleccion no existe.
+2024-04-04 23:14:02.037308:La coleccion no existe.
+2024-04-04 23:14:02.307836:La coleccion no existe.
+2024-04-04 23:14:02.333834:La coleccion no existe.
+2024-04-04 23:14:02.362850:La coleccion no existe.
+2024-04-04 23:14:02.380834:La coleccion no existe.
+2024-04-04 23:14:02.398832:La coleccion no existe.
+2024-04-04 23:14:02.414838:La coleccion no existe.
+2024-04-04 23:14:02.426835:La coleccion no existe.
+2024-04-04 23:14:02.440831:La coleccion no existe.
+2024-04-04 23:14:02.456831:La coleccion no existe.
+2024-04-04 23:14:02.473838:La coleccion no existe.
+2024-04-04 23:14:02.495844:La coleccion no existe.
+2024-04-04 23:14:02.514832:La coleccion no existe.
+2024-04-04 23:14:02.525831:La coleccion no existe.
+2024-04-04 23:14:02.540830:La coleccion no existe.
+2024-04-04 23:14:02.557831:La coleccion no existe.
+2024-04-04 23:14:02.575832:La coleccion no existe.
+2024-04-04 23:14:02.589837:La coleccion no existe.
+2024-04-04 23:14:02.605834:La coleccion no existe.
+2024-04-04 23:14:02.619830:La coleccion no existe.
+2024-04-04 23:14:02.641834:La coleccion no existe.
+2024-04-04 23:14:02.665843:La coleccion no existe.
+2024-04-04 23:14:02.679836:La coleccion no existe.
+2024-04-04 23:14:02.703840:La coleccion no existe.
+2024-04-04 23:14:02.723842:La coleccion no existe.
+2024-04-04 23:14:02.740835:La coleccion no existe.
+2024-04-04 23:14:02.757834:La coleccion no existe.
+2024-04-04 23:14:02.772839:La coleccion no existe.
+2024-04-04 23:14:02.789838:La coleccion no existe.
+2024-04-04 23:14:02.804829:La coleccion no existe.
+2024-04-04 23:14:02.822832:La coleccion no existe.
+2024-04-04 23:14:02.837834:La coleccion no existe.
+2024-04-04 23:14:02.852833:La coleccion no existe.
+2024-04-04 23:14:02.867837:La coleccion no existe.
+2024-04-04 23:14:02.883832:La coleccion no existe.
+2024-04-04 23:15:03.741082:Se inicializo la base de datos
+2024-04-04 23:15:03.754082:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-04 23:15:03.771081:El archivo de la coleccion no contiene datos JSON válidos.
+2024-04-04 23:15:03.784081:El archivo JSON de la coleccion Animales esta vacio o no es un JSON valido, se inicializara como una lista vacía.
+2024-04-04 23:15:03.796088:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:03.817081:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:03.830089:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:03.851093:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:03.866084:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:03.886082:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:03.899088:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:03.919082:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:03.932085:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:03.952085:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:03.965087:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:03.986083:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:03.999086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.020084:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.032085:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.053082:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.066082:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.085082:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.099095:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.121082:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.134084:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.154083:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.169082:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.190082:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.203080:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.224082:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.239083:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.262087:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.273082:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.296085:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.307082:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.332088:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.343091:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.368081:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.383084:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.402083:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.418080:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.439085:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.458082:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.490080:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.506086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.532084:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.544100:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.572093:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.586081:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.608081:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.625082:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.650083:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.663090:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.685082:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.699084:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.722080:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.737082:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.770080:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.790087:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.822081:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.841083:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.901091:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.933084:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.956084:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:04.971080:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:04.996084:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.008081:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.033084:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.047087:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.070094:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.084080:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.106081:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.123085:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.149083:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.164088:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.190083:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.210093:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.236083:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.250083:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.272082:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.288085:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.316084:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.333086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.382088:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.416085:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.449091:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.469080:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.500084:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.515086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.541080:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.556082:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.583083:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.596084:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.619083:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.633083:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.653082:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.668082:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.690098:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.708079:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.734079:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.749084:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.773083:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.789082:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.816079:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.830088:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.853085:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.868081:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.897085:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.917084:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:05.948090:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:05.982089:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.015101:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.031089:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.053082:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.067081:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.090082:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.106087:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.131084:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.145086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.167093:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.182087:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.203081:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.217083:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.240084:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.255083:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.280089:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.295086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.317080:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.333081:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.355081:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.371082:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.397087:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.419079:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.458088:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.488083:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.541086:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.559081:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.584085:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.602080:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.623083:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.639083:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.665086:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.679087:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.703082:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.719080:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.740081:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.756082:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.781086:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.796085:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.819081:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.833085:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.856081:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.872084:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.898090:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.914086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.937083:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:06.955084:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:06.986084:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.004090:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.052083:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.071091:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.104087:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.121084:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.148084:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.164088:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.186089:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.207086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.232081:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.249082:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.270083:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.286081:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.314088:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.331086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.355081:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.371084:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.400086:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.415086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.440086:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.465088:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.519087:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.534084:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.582091:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.625085:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.660089:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.678085:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.706083:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.727084:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.753082:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.770082:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.798097:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.817087:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.849086:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.868084:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.898091:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.916088:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.941084:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:07.967086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:07.993086:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:08.013101:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:08.039081:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:08.068085:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-04 23:15:08.102084:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-04 23:15:08.120086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:05:59.932008:Se inicializo la base de datos
+2024-04-05 01:05:59.943015:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-05 01:05:59.964009:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-05 01:05:59.975012:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:05:59.987345:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.007357:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.024348:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.046345:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.058346:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.077346:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.089350:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.106348:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.118345:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.135347:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.147346:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.166352:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.178352:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.195373:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.207590:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.225295:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.237315:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.254316:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.266315:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.292313:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.306312:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.327317:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.339315:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.365314:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.385317:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.408316:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.425311:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.447317:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.461315:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.486315:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.501309:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.520314:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.533313:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.551311:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.563314:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.582315:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.594323:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.612315:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.625317:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.643311:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.654317:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.673317:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.688318:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.706007:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.718005:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.736824:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.748845:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.767356:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.779381:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.799240:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.811330:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.828707:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.840707:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.857707:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.869708:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.888709:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.900710:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.918318:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.930312:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.949315:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:00.968317:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:00.994317:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.013326:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.085318:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.099311:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.118312:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.132311:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.151318:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.165317:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.183317:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.196318:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.214313:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.227314:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.245312:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.257316:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.276353:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.288132:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.305315:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.316320:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.335315:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.346320:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.365320:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.377318:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.395320:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.408313:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.427320:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.440315:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.458316:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.470317:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.487315:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.499424:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.518576:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.530594:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.551595:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.568598:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.590595:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.607597:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.634602:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.646595:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.665596:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.677595:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.696593:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.709597:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.731594:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.744595:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.762597:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.775596:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.793599:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.805597:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.823596:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.835598:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.854597:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.866594:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.883596:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.895597:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.915599:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.928601:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.947601:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.960599:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:01.977600:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:01.989599:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.010605:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.024599:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.043599:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.055599:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.073598:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.086600:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.103593:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.118601:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.146602:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.164605:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.183598:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.197592:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.216595:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.229593:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.246592:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.259593:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.278598:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.290600:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.309601:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.321600:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.340598:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.353598:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.371599:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.387066:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.405072:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.417685:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.434707:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.447704:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.464715:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.480702:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.498708:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.510707:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.529709:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.544706:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.561707:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.575930:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.593947:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.607953:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.624955:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.638953:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.659948:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.677953:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.696947:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.715952:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.735946:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.748945:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.766946:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.779952:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.799953:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.813951:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.832949:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.844953:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.862952:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.875947:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.894950:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.907951:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.926952:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.939946:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.957956:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:02.974947:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:02.992951:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:03.005952:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:03.024947:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:03.036954:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:03.054951:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:03.067946:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:03.085949:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:03.098946:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:03.116952:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:03.131952:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:03.153952:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:03.167952:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:03.193948:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:03.205946:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:03.237949:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:03.250946:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 01:06:03.270952:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-05 01:06:03.286952:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-05 20:45:28.375387:Se inicializo la base de datos
+2024-04-05 20:45:28.387369:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-05 20:45:28.415371:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-05 20:51:28.216556:Se inicializo la base de datos
+2024-04-05 20:51:28.235556:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-05 20:51:28.259557:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-05 20:59:05.036806:Se inicializo la base de datos
+2024-04-05 20:59:05.053805:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-05 20:59:05.073805:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-05 20:59:05.087813:La coleccion no existe.
+2024-04-06 20:27:45.021191:Se inicializo la base de datos
+2024-04-06 20:27:45.032187:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:27:45.055188:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:27:45.065191:La coleccion no existe.
+2024-04-06 20:27:57.604666:Se inicializo la base de datos
+2024-04-06 20:27:57.614662:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:27:57.627663:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:29:37.192214:Se inicializo la base de datos
+2024-04-06 20:29:37.201219:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:29:37.216214:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:29:37.227221:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:29:37.242220:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:29:53.381025:Se inicializo la base de datos
+2024-04-06 20:29:53.392025:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:29:53.415118:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:30:07.243647:Se inicializo la base de datos
+2024-04-06 20:30:07.255653:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:30:07.270654:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:32:09.045881:Se inicializo la base de datos
+2024-04-06 20:32:09.054878:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:32:09.069886:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:32:09.085878:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:32:09.104881:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:32:23.724887:Se inicializo la base de datos
+2024-04-06 20:32:23.735882:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:32:23.749882:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:45:56.764385:Se inicializo la base de datos
+2024-04-06 20:45:56.775386:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:45:56.790386:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:45:56.800387:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:45:56.813385:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:46:08.207674:Se inicializo la base de datos
+2024-04-06 20:46:08.217678:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:46:08.239672:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:47:36.015359:Se inicializo la base de datos
+2024-04-06 20:47:36.026359:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:47:36.040358:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:47:36.053610:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.067940:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.089579:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.104573:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.126574:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.143574:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.163570:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.177573:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.197577:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.211574:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.231575:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.245576:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.264576:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.278571:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.297574:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.313577:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.332576:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.347650:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.368452:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.384445:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.404442:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.419441:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.439443:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.452443:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.472441:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.485441:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.510448:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.525442:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.546443:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.561440:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.580439:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.596451:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.620443:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.633441:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.654440:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.669442:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.688444:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.702445:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.723448:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.737446:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.757554:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.770576:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.791576:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.804577:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.826579:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.839576:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.858575:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.874584:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.898582:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.913572:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.932575:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.946575:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:36.967579:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:36.980578:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.002588:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.016576:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.038573:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.053574:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.076572:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.096572:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.118579:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.134577:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.155571:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.171572:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.193573:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.206575:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.229572:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.244578:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.264578:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.279578:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.299570:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.314576:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.335588:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.349570:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.370585:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.388582:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.411577:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.424576:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.445578:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.459575:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.478576:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.494575:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.517574:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.530575:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.552584:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.566575:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.590571:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.603581:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.630573:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.647578:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.668580:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.683573:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.703580:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.716575:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.738579:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.753571:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.773576:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.786577:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.807578:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.820577:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.840578:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.855579:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.880574:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.897572:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.920577:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.934572:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.953573:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:37.966576:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:37.987586:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.002587:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.022581:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.035578:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.055582:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.069587:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.089579:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.102578:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.122579:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.138573:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.165574:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.182574:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.202578:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.216573:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.238576:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.252574:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.272577:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.285575:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.304816:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.318095:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.338090:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.352090:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.373087:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.389086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.409086:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.421086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.443087:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.456087:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.476087:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.492097:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.518090:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.531086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.550087:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.574088:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.594085:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.606086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.626086:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.639086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.660090:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.676092:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.697088:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.710087:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.731088:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.745089:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.766090:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.779086:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.800090:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.813087:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.833085:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.846092:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.865658:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.882658:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.909665:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.925664:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.945664:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.959665:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:38.979666:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:38.992660:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:39.013652:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:39.026669:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:39.045735:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:39.059734:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:39.081729:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:39.094735:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:39.114730:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:39.129731:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:39.150734:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:39.163729:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:39.185746:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:39.208737:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:39.234737:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:39.249733:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:39.270730:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:39.283733:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:39.303730:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:39.317730:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:39.337731:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:39.349730:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:39.370732:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:39.385729:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:39.405732:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:39.418729:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:39.438731:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:39.451734:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:39.471734:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:39.483477:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:39.503359:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:39.515381:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:39.536379:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:39.550384:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:47:39.570383:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:47:39.584384:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:49:57.581407:Se inicializo la base de datos
+2024-04-06 20:49:57.592407:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:49:57.612406:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:52:24.270071:Se inicializo la base de datos
+2024-04-06 20:52:24.281078:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:52:24.295558:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:52:24.306573:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:52:24.318581:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:52:24.338575:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:52:24.352578:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:52:24.376380:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:52:24.389403:Se elimino un registro de la coleccion Animales.
+2024-04-06 20:53:44.407462:Se inicializo la base de datos
+2024-04-06 20:53:44.418463:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:53:44.431462:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:54:16.962188:Se inicializo la base de datos
+2024-04-06 20:54:16.972187:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:54:16.986187:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:54:16.997189:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:54:17.009189:Se agrego un nuevo registro a la coleccion Animales.
+2024-04-06 20:54:26.166062:Se inicializo la base de datos
+2024-04-06 20:54:26.176063:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:54:26.197057:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:54:44.614176:Se inicializo la base de datos
+2024-04-06 20:54:44.624180:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:54:44.638177:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:54:44.649176:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:54:44.661175:Se elimino un registro de la coleccion Animales.
+2024-04-06 20:55:01.152952:Se inicializo la base de datos
+2024-04-06 20:55:01.162952:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:55:01.176952:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:55:30.336884:Se inicializo la base de datos
+2024-04-06 20:55:30.346887:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:55:30.359883:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:55:30.373886:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:55:30.386884:Se elimino un registro de la coleccion Animales.
+2024-04-06 20:56:17.995189:Se inicializo la base de datos
+2024-04-06 20:56:18.006192:Se comprobo el directorio colecciones, el cual ya existe.
+2024-04-06 20:56:18.020189:La coleccion fue encontrada con exito coleccion: Animales
+2024-04-06 20:56:18.031189:Se ha cargado el archivo JSON de la coleccion Animales
+2024-04-06 20:56:18.043188:Se elimino un registro de la coleccion Animales.
