@@ -64,3 +64,6 @@ Documentacion-EquinoxDB/.obsidian/
 Thumbs.db
 src/equinoxdb/__init__.py
 tests/__init__.py
+examples/__init__.py
+!/examples/log.txt
+!/examples/*.json

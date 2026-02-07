@@ -1,0 +1,18 @@
+
+2026-02-06 22:46:07.961972:Se inicializo la base de datos
+2026-02-06 22:46:07.984736:Se creo el directorio colecciones
+2026-02-06 22:46:08.000629:Se creo la coleccion con exito. Coleccion: usuarios, en la ruta 'C:\dev\proyecto_bd_equinox\EquinoxDB\examples/colecciones/usuarios.json'
+2026-02-06 22:46:08.020064:El archivo JSON de la coleccion usuarios esta vacio o no es un JSON valido, se inicializara como una lista vacía.
+2026-02-06 22:46:08.037066:Se agrego un nuevo registro a la coleccion usuarios.
+2026-02-06 22:46:08.068404:Se ha cargado el archivo JSON de la coleccion usuarios
+2026-02-06 22:46:08.083815:Se agrego un nuevo registro a la coleccion usuarios.
+2026-02-06 22:46:08.114229:Se ha cargado el archivo JSON de la coleccion usuarios
+2026-02-06 22:46:08.133090:Se agrego un nuevo registro a la coleccion usuarios.
+2026-02-06 22:46:08.163764:La coleccion fue encontrada con exito coleccion: usuarios
+2026-02-06 22:46:08.182106:Se ha cargado el archivo JSON de la coleccion usuarios
+2026-02-06 22:46:08.200061:Se agrego un nuevo registro a la coleccion usuarios.
+2026-02-06 22:46:08.231520:La coleccion fue encontrada con exito coleccion: usuarios
+2026-02-06 22:46:08.248269:Se ha cargado el archivo JSON de la coleccion usuarios
+2026-02-06 22:46:08.267371:Se elimino un registro de la coleccion usuarios.
+2026-02-06 22:46:08.374825:La coleccion fue encontrada con exito coleccion: usuarios
+2026-02-06 22:47:25.506194:Se eliminó la coleccion con exito. coleccion: usuarios
