@@ -1,8 +1,8 @@
 # Clase Colección
 
-from utilidades import *
-import env
 import json
+from .utils import encontrarRuta, registrarLog
+from . import constants as env
 
 
 class Coleccion():

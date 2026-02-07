@@ -1,6 +1,10 @@
 # Consola: Menu de opciones para la base de datos
 
-from utilidades import *
+import sys
+import os
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "src"))
+
+from equinoxdb.utils import titulo, literal, leerEntradas
 
 
 op = None
