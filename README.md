@@ -1,55 +1,82 @@
 # EquinoxDB
 
-EquinoxDB es un Sistema Gestor de Base de Datos (SGBD) desarrollado en Python para el almacenamiento y gestión de datos no relacionales, el cual funciona como un servidor propio e independiente, es decir se incluye la base de datos y el motor dentro del programa en el que se implemente, similar a SQLite.
-Este SGBD permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en colecciones de datos almacenadas en archivos JSON.
+[![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Características
+> Lightweight embedded NoSQL database for Python
 
-- Soporte para operaciones CRUD en colecciones de datos JSON.
-- Tolerancia a fallos al insertar registros en colecciones vacías.
-- Acceso a valores mediante claves sin utilizar bucles.
+EquinoxDB is a simple, embedded NoSQL database management system (DBMS) developed in Python for storing and managing non-relational data. It functions as a self-contained, independent server, similar to SQLite, with the database and engine included within the program.
 
-## Estructura del Proyecto (Aun en desarrollo)
+## ✨ Features
 
-El proyecto está estructurado de la siguiente manera: 
+- 🚀 **Zero external dependencies** - Uses only Python standard library
+- 📦 **Embedded database** - No server required, runs in your application
+- 💾 **JSON-based storage** - Human-readable data format
+- 🔍 **CRUD operations** - Create, Read, Update, Delete records
+- 📝 **Simple API** - Intuitive and easy to use
+- 🐍 **Pure Python** - 100% Python implementation
+- 🛡️ **Fault tolerant** - Handles empty or invalid JSON files gracefully
 
-- `BaseDatos.py`: Contiene la implementación de la clase BaseDatos para gestionar las colecciones de datos.
-- `Coleccion.py`: Contiene la implementación de la clase Coleccion para representar las colecciones de datos.
-- `Consola.py`: Contiene la implementación de la clase Consola para interactuar con el usuario.
-- `README.md`: Este archivo que estás leyendo.
+## 📦 Installation
 
-## Uso
+### From source
 
-Para utilizar EquinoxDB en tu proyecto, sigue estos pasos:
+```bash
+git clone https://github.com/BernardoParrales/EquinoxDB.git
+cd EquinoxDB
+pip install -e .
+```
 
-1. Descarga o clona el repositorio en tu sistema.
-2. Importa las clases necesarias en tu código.
-3. Crea una instancia de la clase `BaseDatos` y comienza a gestionar tus colecciones de datos.
-
-## Ejemplo de Uso
-
-Aquí tienes un ejemplo básico de cómo puedes utilizar EquinoxDB en tu proyecto:
+## 🚀 Quick Start
 
 ```python
-from BaseDatos import BaseDatos
+from equinoxdb import BaseDatos
 
-# Crear una instancia de BaseDatos
+# Create database instance
 db = BaseDatos()
 
-# Crear una nueva colección
+# Create a new collection
 db.crearColeccion("personas")
 
-# Insertar un registro en la colección "personas"
+# Insert a record
 registro = {"nombre": "Juan", "edad": 30, "ciudad": "Ciudad de México"}
 db.insertarRegistro("personas", registro)
 
-# Consultar la colección "personas"
+# Query the collection
 coleccion = db.consultarColeccion("personas")
 print(coleccion)
 ```
 
-## Contribuir
-Si deseas contribuir a EquinoxDB, ¡eres bienvenido! Puedes abrir un problema para informar sobre errores o sugerir nuevas características. Si deseas enviar una corrección o implementar una nueva función, envía una solicitud de extracción. Asegúrate de seguir las directrices de contribución del proyecto.
+## 📚 Documentation
 
-### Licencia
-Este proyecto está bajo la licencia de código abierto.
+- [Getting Started](docs/getting-started.md)
+- [API Reference](docs/api-reference.md)
+- [Examples](examples/)
+
+## 🗂️ Project Structure
+
+```
+EquinoxDB/
+├── src/equinoxdb/      # Source code
+├── tests/              # Test suite
+├── examples/           # Usage examples
+├── docs/               # Documentation
+└── README.md
+```
+
+## 🤝 Contributing
+
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👥 Authors
+
+- **Bernardo Parrales** - [@BernardoParrales](https://github.com/BernardoParrales)
+
+## 🙏 Acknowledgments
+
+- Inspired by SQLite's embedded database approach
+- Built for small-scale Python applications that need simple data persistence

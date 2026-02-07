@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# EquinoxDB específico
+log.txt
+*.log
+colecciones/*.json
+!tests/fixtures/*.json
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+
+# Obsidian
+.obsidian/
+Documentacion-EquinoxDB/.obsidian/
+
+# Backup files
+*.bkp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+src/equinoxdb/__init__.py
+tests/__init__.py
