@@ -121,34 +121,3 @@ class Coleccion():
         else:
             registrarLog(env.COD["Coleccion no existe"])
             print("La coleccion no se encuentra")
-    
-from BaseDatos import BaseDatos 
-db = BaseDatos()
-# {"nombre": "leon", "tipo":"terrestre"}
-animal = {'cod': 0, 'texto': 'Valor: 6969'}
-animal2 = {'cod': 0, 'texto': 'Valor: XXXX'}
-
-import random
-r = Coleccion("Animales", db.consultarColeccion("Animales"))
-'''
-for i in range(100):
-    valor = random.randint(1, 9999)
-    animal = {"cod": i, "texto":f"Valor: {str(valor)}"}
-    r.insertarRegistro(animal)
-    
-
-for i in range(1, 100):
-    print(i)
-    r.eliminarRegistro(i)
-
-#print(r)
-'''
-'''
-r.insertarRegistro(animal)
-print(r.visualizarRegistro(0))
-r.actualizarRegistro(0,animal2)
-print(r.visualizarRegistro(0))
-'''
-print(r.eliminarRegistro(6))
-print(r.visualizarRegistros())
-#print(r.visualizarRegistro(0))
